@@ -24,6 +24,7 @@ class About extends Component{
                   <div className="columns download">
                     <p>
                       <a href="#" className="button"><i className="fa fa-download" />Download Resume</a>
+                      <a href ="file:///C|/My Documents\flowers.pdf">Click here for the pdf file called flowers.</a> 
                     </p>
                   </div>
                 </div> {/* end row */}

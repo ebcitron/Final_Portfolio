@@ -134,7 +134,7 @@ class Portfolio extends Component{
               <span className="categories"><i className="fa fa-tag" />Built with React Native, NodeJS, PostgreSQL, SQLite, Firebase</span>
             </div>
             <div className="link-box">
-              <a href="https://github.com/Lambda-School-Labs/brew-plans-fe">Code base</a>
+              <a href="https://play.google.com/store/apps/details?id=com.brewplans.brewplansapp2">Play Store</a>
               {/* <a  href ="https://www.notion.so/Brew-Plans-84229482fc5d43db823089c26b0e1882">Product Canvas</a> */}
               <a className="popup-modal-dismiss">Close</a>
             </div>
