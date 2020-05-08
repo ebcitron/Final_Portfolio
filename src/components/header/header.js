@@ -29,7 +29,7 @@ class Header extends Component{
             <ul className="social">
               {/* <li><a href="#"><i className="fa fa-facebook" /></a></li> */}
               <li><a href="#"><i className="fa fa-twitter" /></a></li>
-              <li><a href="mailto:ebcitron@gmail.com"><i className="fa fa-google-plus" /></a></li>
+              <li><a href="mailto:ebcitron@gmail.com"><i className="fa fa-envelope" /></a></li>
               <li><a href="https://www.linkedin.com/in/elicitron/"><i className="fa fa-linkedin" /></a></li>
               <li><a href="https://www.github.com/ebcitron/"><i className="fa fa-github" /></a></li>
               {/* <li><a href="#"><i className="fa fa-dribbble" /></a></li> */}
