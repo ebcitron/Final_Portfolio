@@ -14,7 +14,7 @@ class About extends Component{
                     <h2>Contact Details</h2>
                     <p className="address">
                       <span>Eli Citron</span><br />
-                      <span>926 Judson Ave<br />
+                      <span>928 Jugson Ave<br />
                         Evanston, IL 60202 US
                       </span><br />
                       <span>1(224)307-0844</span><br />

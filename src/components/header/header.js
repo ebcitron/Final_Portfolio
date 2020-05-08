@@ -13,7 +13,7 @@ class Header extends Component{
             <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
             <li><a className="smoothscroll" href="#about">About</a></li>
             {/* <li><a className="smoothscroll" href="#resume">Resume</a></li> */}
-            <li><a className="smoothscroll" href="#portfolio">Works</a></li>
+            <li><a className="smoothscroll" href="#portfolio">Work</a></li>
             {/* <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li> */}
             <li><a className="smoothscroll" href="#contact">Contact</a></li>
           </ul> {/* end #nav */}
@@ -23,7 +23,7 @@ class Header extends Component{
             <h1 className="responsive-headline">{resumeData.name}</h1>
             <h3>{resumeData.role}</h3>
             {/* <h5>I {resumeData.roleDescription}</h5> */}
-             <a className="smoothscroll" href="#about">about me</a>
+             {/* <a className="smoothscroll" href="#about">about me</a> */}
    
             <hr />
             <ul className="social">
