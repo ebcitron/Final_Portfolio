@@ -13,7 +13,7 @@ class Portfolio extends Component{
               <div className="columns portfolio-item">
                 <div className="item-wrap">
                   <a href="#modal-01" title>
-                    <img alt="" src="images/portfolio/coffee.jpg" />
+                    <img alt="" src="images/BrewPlans.jpg" />
                     <div className="overlay">
                       <div className="portfolio-item-meta">
                         <h5>Brew Plans</h5>
@@ -41,7 +41,7 @@ class Portfolio extends Component{
               <div className="columns portfolio-item">
                 <div className="item-wrap">
                   <a href="#modal-03" title>
-                    <img alt="" src="images/portfolio/judah.jpg" />
+                    <img alt="" src="images/SpoofMail.jpg" />
                     <div className="overlay">
                       <div className="portfolio-item-meta">
                         <h5>SpoofMail</h5>
@@ -130,7 +130,10 @@ class Portfolio extends Component{
             <img className="scale-with-grid" src="images/portfolio/modals/m-coffee.jpg" alt="" />
             <div className="description-box">
               <h4>Brew Plans</h4>
-              <p>Brew Plans is a native mobile app for coffee connoisseurs that allow users to create, view, update, and delete recipes. In addition, Brew Plans provides recipes for new users, detailing how to create tried and trusted coffee recipes.</p>
+              {/* <p>Brew Plans is a native mobile app for coffee connoisseurs that allow users to create, view, update, and delete recipes. In addition, Brew Plans provides recipes for new users, detailing how to create tried and trusted coffee recipes.</p> */}
+              <p>-Along with team of 5 developers and designers, designed the product from the ground up in a Product Canvas<br/>
+              -Utilized React Native to develop for mobile devices<br/>
+              -Participated in full  SCRUM agile development environment</p>
               <span className="categories"><i className="fa fa-tag" />Built with React Native, NodeJS, PostgreSQL, SQLite, Firebase</span>
             </div>
             <div className="link-box">
@@ -155,7 +158,10 @@ class Portfolio extends Component{
             <img className="scale-with-grid" src="images/portfolio/modals/m-judah.jpg" alt="" />
             <div className="description-box">
               <h4>SpoofMail</h4>
-              <p>SpoofMail is a web application for those who are tired of having to relinquish their personal email address every time they create a new account online. SpoofMail automatically generates burner addresses which our algorithm scans and automatically accepts and verifies your "agreement"</p>
+              {/* <p>SpoofMail is a web application for those who are tired of having to relinquish their personal email address every time they create a new account online. SpoofMail automatically generates burner addresses which our algorithm scans and automatically accepts and verifies your "agreement"</p> */}
+              <p>-Designed out a web app to aid users in their never-ending quest for anonymity<br/>
+                 -Collaborated with 5 other Front and Backend developers to build React App<br/>
+                 -Designed Backend API with Node.js to use the underlying logic behind the work of our Data Scientist</p>
               <span className="categories"><i className="fa fa-tag" />Built with React, Express, Vuze</span>
             </div>
             <div className="link-box">
@@ -167,7 +173,9 @@ class Portfolio extends Component{
             <img className="scale-with-grid" src="images/portfolio/modals/m-intothelight.jpg" alt="" />
             <div className="description-box">
               <h4>BlackHole</h4>
-              <p>BlackHole is a personal note taking app with a twist, as It automatically "Burns" your notes after a period of time you specify when creating the note, making the entire experience a Great mental and emotional exercise</p>
+              <p>-Designed the Front end React application<br/>
+                 -Built out both the Front and Backend using React and node.js</p>
+              {/* <p>BlackHole is a personal note taking app with a twist, as It automatically "Burns" your notes after a period of time you specify when creating the note, making the entire experience a Great mental and emotional exercise</p> */}
               <span className="categories"><i className="fa fa-tag" />Photography</span>
             </div>
             <div className="link-box">

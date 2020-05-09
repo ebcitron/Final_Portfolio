@@ -6,8 +6,8 @@ let resumeData = {
     "address":"928 Judson Ave, Evanston Illinois",
     "aboutRole":"I create comprehensive yet intricate full stack web applications",
     "whyIStandOut":"I realize that in this day and age, code is the integral backbone supporting the tools of, and therefore, modern society. Utilized by all, understood by some, written by the few, and mastered by the devoted - What do a Heiroglyph and the letter X have in common?. Our world is written in coding languages, Be it the english I write now,  or the python that runs your scripts. The ability to program the course of electrons and make use of natural patterns  ",
-    "aboutMe":"While I work in web development, my true abilities shine when given free reign to explore possible solutions to a given problem. I have always been a tinker-er at heart, and have learned many skills through my endevors. The most valuable of which, the wisdom to disect a problem, analyze its components, and further break down my understanding untill I am confident in my abilities to Frankenstein the pieces back together better than they originally came."
-    
+    "aboutMe":"While I work in web development, my true abilities shine when given free reign to explore possible solutions to a given problem. I have always been a tinker-er at heart, and have learned many skills through my endevors. The most valuable of which, the wisdom to disect a problem, analyze its components, and further break down my understanding untill I am confident in my abilities to Frankenstein the pieces back together better than they originally came.",
+    "skills":["Python Scripting","Linux","Bash","Git","Deployment","Algorithm Analysis","Test Driven Development","RESTful API","HTML5","CSS","Javascript(ES5/ES6)","React.js","Node.js","Redux","Sass/Less","React Native","Node.js","Express.js","Java","Spring","SQL","Firebase","MySQL","SQLite3","postgreSQL"]
 }
 
 export default resumeData;

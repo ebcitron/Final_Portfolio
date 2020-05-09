@@ -27,11 +27,11 @@ class ContactUs extends Component{
             <fieldset>
               <div>
                 <label htmlFor="contactName">Name <span className="required">*</span></label>
-                <input type="text" defaultValue size={35} id="contactName" name="contactName" />
+                <input type="text"  size={35} id="contactName" name="contactName" />
               </div>
               <div>
                 <label htmlFor="contactEmail">Email <span className="required">*</span></label>
-                <input type="text" defaultValue size={35} id="contactEmail" name="contactEmail" />
+                <input type="text"  size={35} id="contactEmail" name="contactEmail" />
               </div>
               {/* <div>
                 <label htmlFor="contactSubject">Subject</label>
@@ -39,7 +39,7 @@ class ContactUs extends Component{
               </div> */}
               <div>
                 <label htmlFor="contactMessage">Message <span className="required">*</span></label>
-                <textarea cols={50} rows={15} id="contactMessage" name="contactMessage" defaultValue={""} />
+                <textarea cols={50} rows={15} id="contactMessage" name="contactMessage"  />
               </div>
               <div>
                 <button className="submit">Submit</button>
